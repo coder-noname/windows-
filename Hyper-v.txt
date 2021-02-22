@@ -1,0 +1,1 @@
+windows家庭版启用hyper-v工具，执行HYper-v.cmd自动安装相关软件，重启即可
